@@ -93,7 +93,7 @@ Set port, this command will set the port for sending and receiving commands and 
 Input Maxscript code, this command will treat the code after %mxs as Maxscript code to be sent to 3dsMax.
 
 ```
-%mxs --"""
+%mxs -- """
 -- your code
 -- """
 ```
@@ -107,6 +107,8 @@ Set instance ID, different IDs correspond to different instances of 3dsMax softw
 Grammar hints for PyCharm can use this:
 
 [friedererdmann/pymxs_stubs](https://github.com/friedererdmann/pymxs_stubs)
+
+For different language versions, please add the corresponding title of Scripting Listener to TARGET_WINDOW_TITLE, and both .py files should be modified.
 
 ## Limitations
 
