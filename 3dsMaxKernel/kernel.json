@@ -1,0 +1,10 @@
+{
+  "argv": [
+    "python",
+    "R:\\code\\PycharmProjects\\3dsmax_test\\3dsMaxLog2Jupyter\\3dsMaxKernel\\3dsMaxLogKernel.py",
+    "-f",
+    "{connection_file}"
+  ],
+  "display_name": "3dsMax",
+  "language": "python"
+}
